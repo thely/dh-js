@@ -1,0 +1,10 @@
+#map {
+  height: 500px;
+  width: 800px;
+}
+
+.active {
+  background: greenyellow;
+  color: blue;
+  font-family: sans-serif;
+}
