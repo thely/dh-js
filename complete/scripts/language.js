@@ -36,9 +36,9 @@ printTwo("Jeremy", "pancakes");
 // ------ arrays / loops
 var deets = ["Becky", "Jeremy", "Shane"];
 
-// for (let person of deets) {
-//   printTwo(person, "nothing");
-// }
+for (let person of deets) {
+  printTwo(person, "nothing");
+}
 
 deets = [
   { name: "Becky", bfast: "nothing" },
